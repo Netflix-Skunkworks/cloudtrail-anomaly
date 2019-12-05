@@ -1,0 +1,7 @@
+boto3
+click
+click-log
+cloudaux
+iso8601
+PyYAML
+pytz
